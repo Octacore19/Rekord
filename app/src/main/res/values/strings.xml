@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Rekord</string>
+    <!-- Strings related to login -->
+    <string name="prompt_player_one">Player One</string>
+    <string name="prompt_player_two">Player Two</string>
+    <string name="action_play">Play</string>
+    <string name="tennis_ball">Tennis ball</string>
+    <string name="header_subtitle">...don\'t forget to keep the records</string>
+    <string name="love_value">0</string>
+    <string name="game_set_label">Set</string>
+    <string name="game_serve_label">Serve</string>
+    <string name="advantage">AD</string>
+    <string name="game_point">GAME</string>
+    <string name="love_string">love</string>
+    <string name="deuce">deuce</string>
+    <string name="empty_username_error_msg">Fields cannot be empty</string>
+    <string name="game_points_label">POINT</string>
+</resources>
